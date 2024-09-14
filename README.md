@@ -11,7 +11,7 @@ I'm Abhishek Napit. A web developer from India.
 - 🎯 Goals: Constantly working to become proficient in programming.
 - ⚡ Fun fact: I love Anime.
 
-## Coding Languages I Knnow:
+## Coding Languages I Know:
 
 <img src="images/html.svg" width="50" height="50"> <img src="images/css.svg" width="50" height="50"> <img src="images/js.svg" width="50" height="50"> <img src="images/jquery.svg" width="50" height="50"> <img src="images/react.svg" width="50" height="50"> <img src="images/express.svg" width="50" height="50"><img src="images/node.svg" width="50" height="50"> <img src="images/postgres.svg" width="50" height="50"> <img src="images/python.svg" width="50" height="50"> <img src="images/flask.svg" width="50" height="50"> <img src="images/django.svg" width="50" height="50"> <img src="images/pandas.svg " width="50" height="50"> <img src="images/numpy.svg" width="50" height="50"> <img src="images/canva.svg" width="50" height="50">
 
