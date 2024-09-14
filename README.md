@@ -13,7 +13,7 @@ I'm Abhishek Napit. A web developer from India.
 
 ## Coding Languages I Knnow:
 
-![Image caption](images/html.svg) ![Image caption](images/css.svg) ![Image caption](images/js.svg) ![Image caption](images/jquery.svg) ![Image caption](images/react.svg) ![Image caption](images/express.svg) ![Image caption](images/node.svg) ![Image caption](images/postgres.svg) ![Image caption](images/python.svg) ![Image caption](images/flask.svg) ![Image caption](images/django.svg) ![Image caption](images/pandas.svg) ![Image caption](images/matplotlib.svg) ![Image caption](images/numpy.svg) ![Image caption](images/canva.svg)
+![Image caption](images/html.svg) ![Image caption](images/css.svg) ![Image caption](images/js.svg) ![Image caption](images/jquery.svg) ![Image caption](images/react.svg) ![Image caption](images/express.svg) ![Image caption](images/node.svg) ![Image caption](images/postgres.svg) ![Image caption](images/python.svg) ![Image caption](images/flask.svg) ![Image caption](images/django.svg) ![Image caption](images/pandas.svg) ![Image caption](images/numpy.svg) ![Image caption](images/canva.svg)
 
 ## 💪 Skills:
 
