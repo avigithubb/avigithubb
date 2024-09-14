@@ -13,7 +13,7 @@ I'm Abhishek Napit. A web developer from India.
 
 ## Coding Languages I Knnow:
 
-![Image caption](images/html.svg) ![Image caption](images/css.svg) ![Image caption](images/js.svg) ![Image caption](images/jquery.svg) ![Image caption](images/react.svg) ![Image caption](images/express.svg) ![Image caption](images/node.svg) ![Image caption](images/postgres.svg) ![Image caption](images/python.svg) ![Image caption](images/flask.svg) ![Image caption](images/django.svg) ![Image caption](images/pandas.svg) ![Image caption](images/numpy.svg) ![Image caption](images/canva.svg)
+<img src="images/html.svg" width="50" height="50"> <img src="images/css.svg" width="50" height="50"> <img src="images/js.svg" width="50" height="50"> <img src="images/jquery.svg" width="50" height="50"> <img src="images/react.svg" width="50" height="50"> <img src="images/express.svg" width="50" height="50"><img src="images/node.svg" width="50" height="50"> <img src="images/postgres.svg" width="50" height="50"> <img src="images/python.svg" width="50" height="50"> <img src="images/flask.svg" width="50" height="50"> <img src="images/django.svg" width="50" height="50"> <img src="images/pandas.svg " width="50" height="50"> <img src="images/numpy.svg" width="50" height="50"> <img src="images/canva.svg" width="50" height="50">
 
 ## 💪 Skills:
 
