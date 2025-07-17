@@ -6,8 +6,7 @@ I'm Abhishek Napit. A web developer from India.
 
 - 🔭 I’m currently working on some projects.
 - 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to participate in gsoc 2025.
-- 🤔 I’m looking for help with finding good github repo to contribute to, for gsoc.
+- 🤔 I’m looking for help with finding good github repo to contribute to.
 - 🎯 Goals: Constantly working to become proficient in programming.
 - ⚡ Fun fact: I love Anime.
 
