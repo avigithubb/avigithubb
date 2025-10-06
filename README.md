@@ -34,7 +34,7 @@ I'm always open to discussions on these topics or any interesting tech challenge
 - Color Picker: An Image Color Palette Generator to get the colors from any picture.
 - PDF AudioBook: An Ai feature to turn PDF data into Speech.
 - Space Missions Analysis: A thorough Analysis on Space Mission Race Among countries from the very beginning till now.
-- Book Says: A blog website to keep track of your read books and document them.
+- E-BOOK-PDF an E-commerce website to sell E-books and PDFs on Music, with AWS lambdas as backend and React as frontend. 
 * with many more... 
 
 ## 🔗 Connect with me:
